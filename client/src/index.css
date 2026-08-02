@@ -1,9 +1,9 @@
 @import "./base.css";
 
 :root {
-  --theme-rgb: 0 183 255;
-  --theme-hover-rgb: 0 150 220;
-  --theme-active-rgb: 0 120 180;
+  --theme-rgb: 0 183 255 !important;
+  --theme-hover-rgb: 0 150 220 !important;
+  --theme-active-rgb: 0 120 180 !important;
 }
 
 /* cantarell-latin-400-normal */
